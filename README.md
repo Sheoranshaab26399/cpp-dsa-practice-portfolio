@@ -1,17 +1,6 @@
 # CPP DSA Practice Portfolio
 
-A hands-on C++ portfolio for Data Structures and Algorithms practice, with flowchart-based problem-solving exercises.
-
-## Contents
-
-- [`01Flowchart.cpp`](./01Flowchart.cpp) — First flowchart-oriented C++ practice program.
-
-## Run locally
-
-```bash
-g++ -std=c++17 01Flowchart.cpp -o 01Flowchart
-./01Flowchart
-```
+A hands-on sequential C++ portfolio for Data Structures and Algorithms practice.
 
 ## Purpose
 
